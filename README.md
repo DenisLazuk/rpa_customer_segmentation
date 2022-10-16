@@ -1,2 +1,35 @@
-# rpa_customer_segmentation
-Project practicing sqlite3, datetime
+# **RPA_customer_segmentation**
+## Project on practicing sqlite3, datetime and csv libraries
+
+### Project Objectives:
+- [x] Import libraries
+- [x] Import dataset from .csv file
+- [x] Establish sqlite3 connection to database
+- [x] Import dataset the database
+- [x] Calculate the age of a person at the date of register and save it a separate list
+- [] Update the database with this age list adding a new column 'age'
+- [] Close the connection
+
+### Technologies used:
+```
+Python
+Jupyter notebook
+```
+
+### Dataset used:
+```
+users.csv
+```
+
+### Libraries used:
+```
+csv
+sqlite3
+pandas
+datetime
+```
+
+## How to use ##
+1. Import Libraries
+2. Follow the instructions in .ipynb file
+3. Enjoy the result
